@@ -9,7 +9,7 @@
 - 💻 **Skills:** 
   - **Languages & Frameworks:** HTML, CSS, JavaScript, React, PHP.
   - **Tools:** Git, Vite, Netlify.
-  - **Currently Learning:** Exploring jQuery to expand my toolkit.
+  - **Currently Learning:** Learning Vite-React and SQL to expand my toolkit.
 - 🎯 **Focus Areas:** I specialize in front-end development, with a keen interest in responsive design, user experience, and clean code practices.
 - 
 ## What I'm Working On

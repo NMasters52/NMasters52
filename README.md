@@ -11,7 +11,7 @@
   - **Tools:** Git, Vite, Netlify.
   - **Currently Learning:** Learning Vite-React and SQL to expand my toolkit.
 - 🎯 **Focus Areas:** I specialize in front-end development, with a keen interest in responsive design, user experience, and clean code practices.
-- 
+  
 ## What I'm Working On
 
 I'm actively building and refining projects that demonstrate my problem-solving abilities, attention to detail, and commitment to learning. I'm also focused on improving my skills in project management and communication, essential for collaborative environments.

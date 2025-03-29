@@ -1,34 +1,31 @@
-#!/bin/bash
+# Welcome to My GitHub Profile!  
 
-echo ""
-echo "###############################################"
-echo "# Welcome to My GitHub Profile!               #"
-echo "###############################################"
-echo ""
+👋 Hi there! I'm Nicholas, a front-end web developer dedicated to building intuitive and responsive user experiences. I thrive on solving problems and continuously refining my skills.  
 
-echo "👋 Hi there! I'm Nicholas, a front-end web developer dedicated to building intuitive and responsive user experiences."
-echo "I thrive on solving problems and continuously refining my skills."
-echo ""
+## About Me  
 
-echo "## About Me"
-echo "- 🌱 Always Learning: I live by the philosophy of 'always a student, never a master.' I'm constantly expanding my knowledge, especially in full-stack development."
-echo "- 💻 Skills:"
-echo "  - Languages & Frameworks: HTML, CSS, JavaScript, React, PHP, Laravel."
-echo "  - Tools: Git, Vite, Netlify, Tailwind CSS."
-echo "  - Currently Learning: Deepening my expertise in Node.js, SQL, and Laravel for back-end development."
-echo "- 🎯 Focus Areas: Front-end development, responsive design, clean code, and seamless user experiences."
-echo ""
+- 🌱 **Always Learning:** I live by the philosophy of "always a student, never a master." I'm constantly expanding my knowledge, especially in full-stack development.  
+- 💻 **Skills:**  
+  - **Languages & Frameworks:** HTML, CSS, JavaScript, React, PHP, Laravel.  
+  - **Tools:** Git, Vite, Netlify, Tailwind CSS.  
+  - **Currently Learning:** Deepening my expertise in Node.js, SQL, and Laravel for back-end development.  
+- 🎯 **Focus Areas:** Front-end development, responsive design, clean code, and seamless user experiences.  
 
-echo "## What I'm Working On"
-echo "- Developing a disc golf tournament platform with React and Node.js."
-echo "- Expanding my freelance offerings with Laravel-based applications."
-echo "- Strengthening my networking in the web development community."
-echo ""
+## What I'm Working On  
 
-echo "## Connect with Me"
-echo "- LinkedIn: https://www.linkedin.com/in/nicholas-masters-aa2303323/"
-echo ""
+I'm actively refining my skills through real-world projects, freelancing, and building scalable applications. My current focus includes:  
+- Developing a **disc golf tournament platform** with React and Node.js.  
+- Expanding my freelance offerings with Laravel-based applications.  
+- Strengthening my networking in the web development community.  
 
-echo "## Let's Collaborate"
-echo "I'm open to freelance work, collaborations, and new opportunities! If you have a project idea, feel free to reach out."
-echo ""
+## Connect with Me  
+
+- **LinkedIn:** [Nicholas Masters](https://www.linkedin.com/in/nicholas-masters-aa2303323/)  
+
+## Let's Collaborate  
+
+I'm open to freelance work, collaborations, and new opportunities! If you have a project idea, feel free to reach out.  
+
+---
+
+Would you like to add anything specific, such as portfolio links or GitHub stats? 🚀

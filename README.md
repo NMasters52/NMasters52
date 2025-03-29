@@ -1,28 +1,30 @@
+Welcome to My GitHub Profile!
+👋 Hi there! I'm Nicholas, a front-end web developer dedicated to building intuitive and responsive user experiences. I thrive on solving problems and continuously refining my skills.
 
-# Welcome to My GitHub Profile!
+About Me
+🌱 Always Learning: I live by the philosophy of "always a student, never a master." I'm constantly expanding my knowledge, especially in full-stack development.
 
-👋 Hi there! I'm a passionate front-end web developer with a strong foundation in web technologies and a love for creating intuitive, user-friendly interfaces.
+💻 Skills:
 
-## About Me
+Languages & Frameworks: HTML, CSS, JavaScript, React, PHP, Laravel.
 
-- 🌱 **Always Learning:** I believe in the philosophy of "always a student, never a master." I'm continuously seeking to expand my knowledge and skills in web development, particularly in front-end technologies.
-- 💻 **Skills:** 
-  - **Languages & Frameworks:** HTML, CSS, JavaScript, React, PHP.
-  - **Tools:** Git, Vite, Netlify.
-  - **Currently Learning:** Working with Node.js and SQL to expand my toolkit.
-- 🎯 **Focus Areas:** I specialize in front-end development, with a keen interest in responsive design, user experience, and clean code practices.
-  
-## What I'm Working On
+Tools: Git, Vite, Netlify, Tailwind CSS.
 
-I'm actively building and refining projects that demonstrate my problem-solving abilities, attention to detail, and commitment to learning. I'm also focused on improving my skills in project management and communication.
+Currently Learning: Deepening my expertise in Node.js, SQL, and Laravel for back-end development.
 
-## Connect with Me
+🎯 Focus Areas: Front-end development, responsive design, clean code, and seamless user experiences.
 
-- **LinkedIn:** https://www.linkedin.com/in/nicholas-masters-aa2303323/
+What I'm Working On
+I'm actively refining my skills through real-world projects, freelancing, and building scalable applications. My current focus is:
 
-## Let's Collaborate
+Developing a disc golf tournament platform with React and Node.js.
 
-I'm always open to new opportunities and collaborations. If you have a project or idea that aligns with my skills and interests, feel free to reach out!
+Expanding my freelance offerings with Laravel-based applications.
 
----
+Strengthening my networking in the web development community.
 
+Connect with Me
+LinkedIn: Nicholas Masters
+
+Let's Collaborate
+I'm open to freelance work, collaborations, and new opportunities! If you have a project idea, feel free to reach out.

@@ -27,5 +27,3 @@ I'm actively refining my skills through real-world projects, freelancing, and bu
 I'm open to freelance work, collaborations, and new opportunities! If you have a project idea, feel free to reach out.  
 
 ---
-
-Would you like to add anything specific, such as portfolio links or GitHub stats? 🚀

@@ -6,9 +6,7 @@
 
 <h1 align="left">Nicholas Masters | Software Engineer</h1>
 
-###
-
-<p align="left"></p>
+<p align="left">Building Disc Golf Labs and software that challenges me.</p>
 
 ###
 
@@ -34,3 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+###
+
+**🥏 Currently building [Disc Golf Labs](https://github.com/NMasters52)** — a coaching and analytics platform for disc golfers who care about their data.

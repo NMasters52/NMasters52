@@ -1,14 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <h1 align="left">Nicholas Masters | Software Engineer</h1>
-
-<p align="left">Building Disc Golf Labs and software that challenges me.</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,6 +22,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
+## About
 
-**🥏 Currently building [Disc Golf Labs](https://github.com/NMasters52/DiscGolfLabs-frontend)** — a coaching and analytics platform for disc golfers who care about their data.
+New Construction Field Manager → Full Stack Developer. Boot camp new grad that builds daily. Current focus is building and releasing Disc Golf Labs.
+
+---
+
+## Projects
+
+**[Disc Golf Labs](https://github.com/NMasters52/DiscGolfLabs-Frontend)** — Coaching platform that reinforces learning with data.
+
+**[Idea Drop](https://github.com/NMasters52/idea-drop-api)** — Full stack idea tracker with decoupled architecture.
+
+**[GitHub Finder](https://github-finder-wf5f.vercel.app/)** — GitHub account finder using the native API.
+
+**[Crypto Dash](https://crypto-dash-ochre-two.vercel.app)** — Realtime analytics dashboard for crypto markets.
+
+**[React Tenzies](https://nmtenzies.netlify.app)** — React capstone project. Can you beat the high score of 7 rolls?
+
+---
+
+## Connect
+
+If you'd like to collaborate, contribute, or connect — find me here.
+
+- 🐦 [X / Twitter](https://x.com/discgolfdev?s=21)
+- 💼 [LinkedIn](https://linkedin.com/in/nicholas-masters-aa2303323)
+- 📧 [nmasters52@gmail.com](mailto:nmasters52@gmail.com)

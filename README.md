@@ -34,4 +34,4 @@
 
 ###
 
-**🥏 Currently building [Disc Golf Labs](https://github.com/NMasters52)** — a coaching and analytics platform for disc golfers who care about their data.
+**🥏 Currently building [Disc Golf Labs](https://github.com/NMasters52/DiscGolfLabs-frontend)** — a coaching and analytics platform for disc golfers who care about their data.

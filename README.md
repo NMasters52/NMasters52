@@ -1,6 +1,6 @@
 <h1 align="left">Nicholas Masters | Software Engineer</h1>
 
-**[🌐 My Portfolio](https://portfolio-frontend-omega-indol.vercel.app/)** (SSR app may take a second to load for the first time)
+**[🌐 My Portfolio](https://portfolio-frontend-omega-indol.vercel.app/)** (SSR it may take a second to load for the first time)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

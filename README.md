@@ -32,7 +32,7 @@ Construction Field Manager → Full Stack Developer. Boot camp new grad that bui
 
 ## Projects
 
-**[Disc Golf Labs](https://github.com/NMasters52/DiscGolfLabs-Frontend)** — Coaching platform that reinforces learning with data. In Progress - Releases May 4th.
+**[Disc Golf Labs](https://github.com/NMasters52/DiscGolfLabs-Frontend)** — Coaching platform that reinforces learning with data. In Progress.
 
 **[Idea Drop](https://github.com/NMasters52/idea-drop-api)** — Full stack idea tracker with decoupled architecture.
 

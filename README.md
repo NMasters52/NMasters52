@@ -26,7 +26,7 @@
 
 ## About
 
-Construction Field Manager → Full Stack Developer. Boot camp new grad that builds daily. Current focus is building and releasing Disc Golf Labs.
+Construction Field Manager → Full Stack Developer. Bootcamp new grad that builds daily. Current focus is building and releasing Disc Golf Labs.
 
 ---
 
